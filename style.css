@@ -1,0 +1,25 @@
+body
+{
+background-image: linear-gradient(to right,#fcab68,#fcfa65,#f7c3ed,whitesmoke);
+}
+
+#header{
+
+    font-family: 'Poiret One', cursive;
+    font-size: 40px;
+}
+
+#text{
+
+    font-size: large;
+}
+
+
+#start{
+height: 50px; 
+width: 100px; 
+font-size: 20px;
+border-width: 2px;
+border-radius: 20px;
+border-color: whitesmoke;
+}
