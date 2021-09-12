@@ -1,25 +1,63 @@
 body
 {
+    font-family: 'Special Elite', cursive;
 background-image: linear-gradient(to right,#fcab68,#fcfa65,#f7c3ed,whitesmoke);
 }
 
 #header{
 
     font-family: 'Poiret One', cursive;
+    background-color: white;
     font-size: 40px;
+    color: #eb7aad;
 }
 
 #text{
 
     font-size: large;
+    color: gray;
 }
 
 
 #start{
-height: 50px; 
-width: 100px; 
+width: 130px; 
 font-size: 20px;
 border-width: 2px;
 border-radius: 20px;
 border-color: whitesmoke;
+font-family: 'Roboto', sans-serif;
+margin-top: 30px;
+font-weight: bolder;
+letter-spacing: 3px;
 }
+
+
+.header_div {
+
+    background-color: white;
+   
+
+}
+
+#text{
+
+    letter-spacing: 2px;
+    color: gray;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.copy_right_footer{
+
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: gray;
+    background-color: white;
+    font-size: 18px;
+    line-height: 3;
+    text-align: center;
+}
+
